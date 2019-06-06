@@ -1,0 +1,1 @@
+将train\label2_3\label5_20中的数据排序放置于path1、path2、path3，并将其拼接合成放入ppt中，可用于组合生成1*3的PPT
